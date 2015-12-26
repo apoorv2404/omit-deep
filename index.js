@@ -23,10 +23,6 @@ module.exports = function omitDeep(input, props) {
     return omit(o, props);
   }
 
-  if (typeof input === 'undefined') {
-    return {};
-  }
-
   if (isArray(input)) {
     return input.map(omitDeepOnOwnProps);
   }
