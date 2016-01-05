@@ -1,14 +1,13 @@
 {
-  "name": "omit-deep",
+  "name": "@storedock/omit-deep",
   "description": "Recursively omit the specified key or keys from an object.",
   "version": "0.1.3",
-  "homepage": "https://github.com/jonschlinkert/omit-deep",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "repository": "jonschlinkert/omit-deep",
+  "homepage": "https://github.com/apoorv2404/omit-deep",
+  "author": "Jon Schlinkert (https://github.com/apoorv2404)",
+  "repository": "apoorv2404/omit-deep",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/omit-deep/issues"
+    "url": "https://github.com/apoorv2404/omit-deep/issues"
   },
-  "license": "MIT",
   "files": [
     "index.js"
   ],
